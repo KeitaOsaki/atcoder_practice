@@ -32,11 +32,11 @@ func count(n int) int {
 	return countNum
 }
 
-func scans(len int) (nums []int) {
-	var num int
-	for i := 0; i < len; i++ {
-		fmt.Scanf("%d", &num)
-		nums = append(nums, num)
-	}
-	return
-}
+//func scans(len int) (nums []int) {
+//	var num int
+//	for i := 0; i < len; i++ {
+//		fmt.Scanf("%d", &num)
+//		nums = append(nums, num)
+//	}
+//	return
+//}
