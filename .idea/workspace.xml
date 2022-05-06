@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e045662e-2e9d-41bc-ac0d-5bd18c8933e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Atcoder_Beginners_Sekection/traveling.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/card_game_for_two.go" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder_Beginners_Sekection/card_game_for_two.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coins.go" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder_Beginners_Sekection/coins.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kagami_mochi.go" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder_Beginners_Sekection/kagami_mochi.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otoshidama.go" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder_Beginners_Sekection/otoshidama.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/placing_marbles.go" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder_Beginners_Sekection/placing_marbles.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.go" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder_Beginners_Sekection/product.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shift_only.go" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder_Beginners_Sekection/shift_only.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/some_sums.go" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder_Beginners_Sekection/some_sums.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/welcome_to_atcoder.go" beforeDir="false" afterPath="$PROJECT_DIR$/Atcoder_Beginners_Sekection/welcome_to_atcoder.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/go/go1.18.1" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28n3su5dpJxkKIfNxBHHfKe8GgB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/b1018154",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
