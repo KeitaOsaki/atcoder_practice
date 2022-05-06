@@ -18,9 +18,9 @@ func main() {
 
 }
 
-//func splitInt(i int, list []int) []int {
-//	if i > 0 {
-//		return splitInt(i/10, append(list, i%10))
-//	}
-//	return list
-//}
+func splitInt(i int, list []int) []int {
+	if i > 0 {
+		return splitInt(i/10, append(list, i%10))
+	}
+	return list
+}
